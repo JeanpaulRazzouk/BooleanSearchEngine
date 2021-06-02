@@ -9,5 +9,5 @@ Looks for keyword in the files imported using the boolean information retrieval 
 once the keywords are found, keywords location based on bitwise operator is returned.
 
 
-
+<img width="1272" alt="1" src="https://user-images.githubusercontent.com/68122919/120450260-f81c9480-c398-11eb-9d48-868c778e82db.png">
 
